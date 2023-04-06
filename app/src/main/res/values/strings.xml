@@ -3,4 +3,5 @@
     <string name="heading">Calculate Tip</string>
     <string name="texfieldHeading">Bill Amount</string>
     <string name="TipHeading">Enter Tip %</string>
+    <string name="Round">Round Up to?</string>
 </resources>
